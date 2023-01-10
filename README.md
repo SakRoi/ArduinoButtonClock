@@ -10,4 +10,4 @@ An Arduino stopwatch that works using interrupts. Current version works with two
 - jump wires
 
 ### Schematics
-![img](https://github.com/SakRoi/V.A.H.T.I/blob/main/vahti.png)
+![img](https://github.com/SakRoi/arduinoButtonClock/blob/main/image.png)
